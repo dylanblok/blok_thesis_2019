@@ -1,4 +1,4 @@
-# Blok Thesis 2019: Comparison of Two Algorithms forthe Task of Link Prediction on Temporal Network Data
+# Blok Thesis 2019: Comparison of Two Algorithms for the Task of Link Prediction on Temporal Network Data
 Python 3.6 code for finding results for 2019 thesis
 
 # Python dependencies
