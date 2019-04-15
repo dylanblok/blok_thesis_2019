@@ -1,0 +1,3979 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="time" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="time" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>21/02/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="0001113" label="0001113">
+        <attvalues>
+          <attvalue for="0" value="1982-01-01" />
+        </attvalues>
+      </node>
+      <node id="0208020" label="0208020">
+        <attvalues>
+          <attvalue for="0" value="1987-11-01" />
+        </attvalues>
+      </node>
+      <node id="0209014" label="0209014">
+        <attvalues>
+          <attvalue for="0" value="1987-02-01" />
+        </attvalues>
+      </node>
+      <node id="9201004" label="9201004">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201007" label="9201007">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201013" label="9201013">
+        <attvalues>
+          <attvalue for="0" value="1991-11-01" />
+        </attvalues>
+      </node>
+      <node id="9201020" label="9201020">
+        <attvalues>
+          <attvalue for="0" value="1991-09-01" />
+        </attvalues>
+      </node>
+      <node id="9201021" label="9201021">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201026" label="9201026">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201029" label="9201029">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201040" label="9201040">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201056" label="9201056">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201059" label="9201059">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9201061" label="9201061">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9201067" label="9201067">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9201074" label="9201074">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9202004" label="9202004">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9202011" label="9202011">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9202014" label="9202014">
+        <attvalues>
+          <attvalue for="0" value="1992-01-01" />
+        </attvalues>
+      </node>
+      <node id="9202046" label="9202046">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9202057" label="9202057">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9202059" label="9202059">
+        <attvalues>
+          <attvalue for="0" value="1992-02-01" />
+        </attvalues>
+      </node>
+      <node id="9202092" label="9202092">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203018" label="9203018">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203033" label="9203033">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203039" label="9203039">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203042" label="9203042">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203051" label="9203051">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9203052" label="9203052">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203054" label="9203054">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203056" label="9203056">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203071" label="9203071">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203074" label="9203074">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203076" label="9203076">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9203079" label="9203079">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9203083" label="9203083">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9203084" label="9203084">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204012" label="9204012">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204019" label="9204019">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204030" label="9204030">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204035" label="9204035">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204046" label="9204046">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204060" label="9204060">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204064" label="9204064">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9204071" label="9204071">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204072" label="9204072">
+        <attvalues>
+          <attvalue for="0" value="1992-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204083" label="9204083">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9204089" label="9204089">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9204095" label="9204095">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9204099" label="9204099">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9204102" label="9204102">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205004" label="9205004">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9205009" label="9205009">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205015" label="9205015">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205027" label="9205027">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205028" label="9205028">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9205037" label="9205037">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205041" label="9205041">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205046" label="9205046">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205051" label="9205051">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205068" label="9205068">
+        <attvalues>
+          <attvalue for="0" value="1988-03-01" />
+        </attvalues>
+      </node>
+      <node id="9205069" label="9205069">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9205081" label="9205081">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9205088" label="9205088">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9205089" label="9205089">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9205110" label="9205110">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206006" label="9206006">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206007" label="9206007">
+        <attvalues>
+          <attvalue for="0" value="1992-03-01" />
+        </attvalues>
+      </node>
+      <node id="9206015" label="9206015">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206016" label="9206016">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206020" label="9206020">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206026" label="9206026">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206027" label="9206027">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206029" label="9206029">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9206034" label="9206034">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206035" label="9206035">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206044" label="9206044">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206047" label="9206047">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206048" label="9206048">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206049" label="9206049">
+        <attvalues>
+          <attvalue for="0" value="1992-05-01" />
+        </attvalues>
+      </node>
+      <node id="9206070" label="9206070">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206078" label="9206078">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206081" label="9206081">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9206084" label="9206084">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9206096" label="9206096">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9206106" label="9206106">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207004" label="9207004">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207016" label="9207016">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207040" label="9207040">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207042" label="9207042">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207050" label="9207050">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207053" label="9207053">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207060" label="9207060">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207067" label="9207067">
+        <attvalues>
+          <attvalue for="0" value="1992-07-01" />
+        </attvalues>
+      </node>
+      <node id="9207084" label="9207084">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9207091" label="9207091">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9207094" label="9207094">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9207095" label="9207095">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9207102" label="9207102">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9207103" label="9207103">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208002" label="9208002">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208007" label="9208007">
+        <attvalues>
+          <attvalue for="0" value="1992-06-01" />
+        </attvalues>
+      </node>
+      <node id="9208026" label="9208026">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208027" label="9208027">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208029" label="9208029">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9208031" label="9208031">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9208035" label="9208035">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208047" label="9208047">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208055" label="9208055">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9208059" label="9208059">
+        <attvalues>
+          <attvalue for="0" value="1992-08-01" />
+        </attvalues>
+      </node>
+      <node id="9208066" label="9208066">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9208074" label="9208074">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9208078" label="9208078">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209003" label="9209003">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209008" label="9209008">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209012" label="9209012">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209016" label="9209016">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209023" label="9209023">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209032" label="9209032">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9209041" label="9209041">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209044" label="9209044">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209049" label="9209049">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209052" label="9209052">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209055" label="9209055">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209058" label="9209058">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9209076" label="9209076">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9209116" label="9209116">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210010" label="9210010">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9210015" label="9210015">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210017" label="9210017">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210021" label="9210021">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210065" label="9210065">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210068" label="9210068">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210115" label="9210115">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9210119" label="9210119">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9210121" label="9210121">
+        <attvalues>
+          <attvalue for="0" value="1992-10-01" />
+        </attvalues>
+      </node>
+      <node id="9210127" label="9210127">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9210141" label="9210141">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9211011" label="9211011">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211015" label="9211015">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211021" label="9211021">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211030" label="9211030">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211034" label="9211034">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211040" label="9211040">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211053" label="9211053">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9211056" label="9211056">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211059" label="9211059">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211061" label="9211061">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211072" label="9211072">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9211096" label="9211096">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211097" label="9211097">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9211102" label="9211102">
+        <attvalues>
+          <attvalue for="0" value="1992-11-01" />
+        </attvalues>
+      </node>
+      <node id="9211114" label="9211114">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9211121" label="9211121">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9212009" label="9212009">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9212030" label="9212030">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9212045" label="9212045">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9212049" label="9212049">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9212086" label="9212086">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9212088" label="9212088">
+        <attvalues>
+          <attvalue for="0" value="1992-12-01" />
+        </attvalues>
+      </node>
+      <node id="9212149" label="9212149">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301003" label="9301003">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301015" label="9301015">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301038" label="9301038">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301042" label="9301042">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301043" label="9301043">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301046" label="9301046">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301047" label="9301047">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301052" label="9301052">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301068" label="9301068">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301083" label="9301083">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9301097" label="9301097">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9301103" label="9301103">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9301111" label="9301111">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9301114" label="9301114">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302006" label="9302006">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302014" label="9302014">
+        <attvalues>
+          <attvalue for="0" value="1993-01-01" />
+        </attvalues>
+      </node>
+      <node id="9302022" label="9302022">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302023" label="9302023">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302026" label="9302026">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302033" label="9302033">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302038" label="9302038">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302047" label="9302047">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9302048" label="9302048">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302080" label="9302080">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9302083" label="9302083">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302103" label="9302103">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302109" label="9302109">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9302116" label="9302116">
+        <attvalues>
+          <attvalue for="0" value="1993-02-01" />
+        </attvalues>
+      </node>
+      <node id="9302126" label="9302126">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9302133" label="9302133">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9302136" label="9302136">
+        <attvalues>
+          <attvalue for="0" value="1992-09-01" />
+        </attvalues>
+      </node>
+      <node id="9303007" label="9303007">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303012" label="9303012">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303013" label="9303013">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303016" label="9303016">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303017" label="9303017">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303038" label="9303038">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303040" label="9303040">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303046" label="9303046">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303048" label="9303048">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9303057" label="9303057">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303067" label="9303067">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303093" label="9303093">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303112" label="9303112">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303123" label="9303123">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303136" label="9303136">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303143" label="9303143">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303153" label="9303153">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303156" label="9303156">
+        <attvalues>
+          <attvalue for="0" value="1993-03-01" />
+        </attvalues>
+      </node>
+      <node id="9303160" label="9303160">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304011" label="9304011">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9304026" label="9304026">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304046" label="9304046">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304047" label="9304047">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304055" label="9304055">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304057" label="9304057">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304065" label="9304065">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304068" label="9304068">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9304102" label="9304102">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9304104" label="9304104">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9304128" label="9304128">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9304135" label="9304135">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304141" label="9304141">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9304148" label="9304148">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9304154" label="9304154">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9304159" label="9304159">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305010" label="9305010">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305025" label="9305025">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305026" label="9305026">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305040" label="9305040">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305047" label="9305047">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305068" label="9305068">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305069" label="9305069">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305083" label="9305083">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305109" label="9305109">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9305114" label="9305114">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9305139" label="9305139">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9305142" label="9305142">
+        <attvalues>
+          <attvalue for="0" value="1993-05-01" />
+        </attvalues>
+      </node>
+      <node id="9305160" label="9305160">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9305185" label="9305185">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306002" label="9306002">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306013" label="9306013">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306023" label="9306023">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306041" label="9306041">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306044" label="9306044">
+        <attvalues>
+          <attvalue for="0" value="1993-04-01" />
+        </attvalues>
+      </node>
+      <node id="9306052" label="9306052">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306069" label="9306069">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306080" label="9306080">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306096" label="9306096">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9306147" label="9306147">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9306153" label="9306153">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307001" label="9307001">
+        <attvalues>
+          <attvalue for="0" value="1993-06-01" />
+        </attvalues>
+      </node>
+      <node id="9307010" label="9307010">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307045" label="9307045">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307049" label="9307049">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307088" label="9307088">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307108" label="9307108">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307111" label="9307111">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9307158" label="9307158">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9307168" label="9307168">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9307171" label="9307171">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9307174" label="9307174">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9307196" label="9307196">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308020" label="9308020">
+        <attvalues>
+          <attvalue for="0" value="1993-07-01" />
+        </attvalues>
+      </node>
+      <node id="9308045" label="9308045">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308075" label="9308075">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308083" label="9308083">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308100" label="9308100">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308106" label="9308106">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308112" label="9308112">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308122" label="9308122">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308124" label="9308124">
+        <attvalues>
+          <attvalue for="0" value="1993-08-01" />
+        </attvalues>
+      </node>
+      <node id="9308129" label="9308129">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9308139" label="9308139">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9308154" label="9308154">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309013" label="9309013">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309023" label="9309023">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309039" label="9309039">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309044" label="9309044">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309055" label="9309055">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309075" label="9309075">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309097" label="9309097">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309106" label="9309106">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309107" label="9309107">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309110" label="9309110">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309119" label="9309119">
+        <attvalues>
+          <attvalue for="0" value="1993-09-01" />
+        </attvalues>
+      </node>
+      <node id="9309137" label="9309137">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9309140" label="9309140">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9309142" label="9309142">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9309145" label="9309145">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9309154" label="9309154">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310008" label="9310008">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310044" label="9310044">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310101" label="9310101">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310112" label="9310112">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310118" label="9310118">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310122" label="9310122">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310144" label="9310144">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310151" label="9310151">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310159" label="9310159">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310170" label="9310170">
+        <attvalues>
+          <attvalue for="0" value="1993-10-01" />
+        </attvalues>
+      </node>
+      <node id="9310181" label="9310181">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9310188" label="9310188">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9310194" label="9310194">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9310202" label="9310202">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311009" label="9311009">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311010" label="9311010">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311012" label="9311012">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311015" label="9311015">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311042" label="9311042">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311055" label="9311055">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311081" label="9311081">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311120" label="9311120">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311130" label="9311130">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311147" label="9311147">
+        <attvalues>
+          <attvalue for="0" value="1993-11-01" />
+        </attvalues>
+      </node>
+      <node id="9311177" label="9311177">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9311183" label="9311183">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312047" label="9312047">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312059" label="9312059">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312104" label="9312104">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312114" label="9312114">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312118" label="9312118">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312153" label="9312153">
+        <attvalues>
+          <attvalue for="0" value="1993-12-01" />
+        </attvalues>
+      </node>
+      <node id="9312172" label="9312172">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9312182" label="9312182">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9312189" label="9312189">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9312206" label="9312206">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401006" label="9401006">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401021" label="9401021">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401025" label="9401025">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401030" label="9401030">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401059" label="9401059">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401069" label="9401069">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401070" label="9401070">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401072" label="9401072">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401092" label="9401092">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9401102" label="9401102">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401105" label="9401105">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401125" label="9401125">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401133" label="9401133">
+        <attvalues>
+          <attvalue for="0" value="1994-01-01" />
+        </attvalues>
+      </node>
+      <node id="9401139" label="9401139">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9401153" label="9401153">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402002" label="9402002">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402005" label="9402005">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402007" label="9402007">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402008" label="9402008">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402016" label="9402016">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402031" label="9402031">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402032" label="9402032">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402044" label="9402044">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402045" label="9402045">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402057" label="9402057">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402073" label="9402073">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402077" label="9402077">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402107" label="9402107">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402113" label="9402113">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402119" label="9402119">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402120" label="9402120">
+        <attvalues>
+          <attvalue for="0" value="1994-02-01" />
+        </attvalues>
+      </node>
+      <node id="9402147" label="9402147">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9402156" label="9402156">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403040" label="9403040">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403041" label="9403041">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403058" label="9403058">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403073" label="9403073">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403096" label="9403096">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403108" label="9403108">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403121" label="9403121">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403123" label="9403123">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403137" label="9403137">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403141" label="9403141">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403143" label="9403143">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403155" label="9403155">
+        <attvalues>
+          <attvalue for="0" value="1994-03-01" />
+        </attvalues>
+      </node>
+      <node id="9403173" label="9403173">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9403179" label="9403179">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9403186" label="9403186">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9403187" label="9403187">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9403191" label="9403191">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9403195" label="9403195">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9403198" label="9403198">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404004" label="9404004">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404008" label="9404008">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404031" label="9404031">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404035" label="9404035">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404050" label="9404050">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404056" label="9404056">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404063" label="9404063">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404071" label="9404071">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404092" label="9404092">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404108" label="9404108">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404113" label="9404113">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404114" label="9404114">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404140" label="9404140">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404151" label="9404151">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404157" label="9404157">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404162" label="9404162">
+        <attvalues>
+          <attvalue for="0" value="1994-04-01" />
+        </attvalues>
+      </node>
+      <node id="9404173" label="9404173">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9404180" label="9404180">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405002" label="9405002">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405005" label="9405005">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405024" label="9405024">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405026" label="9405026">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405029" label="9405029">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405069" label="9405069">
+        <attvalues>
+          <attvalue for="0" value="1991-10-01" />
+        </attvalues>
+      </node>
+      <node id="9405072" label="9405072">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405095" label="9405095">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405096" label="9405096">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405107" label="9405107">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405109" label="9405109">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405110" label="9405110">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405113" label="9405113">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405117" label="9405117">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405121" label="9405121">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405124" label="9405124">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405136" label="9405136">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405162" label="9405162">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405171" label="9405171">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9405188" label="9405188">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9405190" label="9405190">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9405194" label="9405194">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406020" label="9406020">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406048" label="9406048">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406055" label="9406055">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406059" label="9406059">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406067" label="9406067">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406082" label="9406082">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406101" label="9406101">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406105" label="9406105">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406125" label="9406125">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406128" label="9406128">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406132" label="9406132">
+        <attvalues>
+          <attvalue for="0" value="1994-06-01" />
+        </attvalues>
+      </node>
+      <node id="9406198" label="9406198">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9406203" label="9406203">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9406206" label="9406206">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9406207" label="9406207">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9406208" label="9406208">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9406216" label="9406216">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9406217" label="9406217">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407001" label="9407001">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407005" label="9407005">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407018" label="9407018">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407025" label="9407025">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407031" label="9407031">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407078" label="9407078">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407087" label="9407087">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407099" label="9407099">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407106" label="9407106">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407111" label="9407111">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407114" label="9407114">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407117" label="9407117">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407118" label="9407118">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407148" label="9407148">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407155" label="9407155">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407167" label="9407167">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407168" label="9407168">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407182" label="9407182">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9407190" label="9407190">
+        <attvalues>
+          <attvalue for="0" value="1994-07-01" />
+        </attvalues>
+      </node>
+      <node id="9505061" label="9505061">
+        <attvalues>
+          <attvalue for="0" value="1994-05-01" />
+        </attvalues>
+      </node>
+      <node id="9910093" label="9910093">
+        <attvalues>
+          <attvalue for="0" value="1985-07-01" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="9404180" target="9203033">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="9404180" target="9309106">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="9405002" target="9202046">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="9405002" target="9204030">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="9405002" target="9205068">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="9405002" target="9303017">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="9405002" target="9303040">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="9405002" target="9401139">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="9405005" target="9212088">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="9405005" target="9303012">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="9405026" target="9204099">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="9405026" target="9302126">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="9405026" target="9303007">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="9405026" target="9304068">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="9405029" target="9202057">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="9405072" target="9201021">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="9405072" target="9201061">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="9405072" target="9201074">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="9405072" target="9203042">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="9405072" target="9203052">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="9405072" target="9203054">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="9405072" target="9203056">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="9405072" target="9204072">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="9405072" target="9205028">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="9405072" target="9205069">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="9405072" target="9205089">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="9405072" target="9206020">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="9405072" target="9206070">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="9405072" target="9206081">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="9405072" target="9303123">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="9405095" target="9204019">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="9405095" target="9206096">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="9405096" target="9201013">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="9405096" target="9302048">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="9405096" target="9401030">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="9405109" target="9301103">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="9405109" target="9304057">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="9405109" target="9405194">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="9405110" target="9312059">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="9405113" target="9203051">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="9405113" target="9207060">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="9405117" target="9203083">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="9405117" target="9204046">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="9405121" target="9206027">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="9405121" target="9209003">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="9405121" target="9210010">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="9405121" target="9310181">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="9405124" target="9307049">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="9405162" target="9205069">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="9405162" target="9205089">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="9405162" target="9206020">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="9405162" target="9206070">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="9405162" target="9207095">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="9405162" target="9209012">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="9405162" target="9209055">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="9405162" target="9209058">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="9405162" target="9306069">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="9405162" target="9403137">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="9405188" target="9202046">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="9405188" target="9204030">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="9405188" target="9204035">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="9405188" target="9205068">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="9405188" target="9212045">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="9405188" target="9212049">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="9405188" target="9303040">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="9405188" target="9304154">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="9405188" target="9305069">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="9405188" target="9305185">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="9405194" target="9206106">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="9405194" target="9304057">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="9405194" target="9312206">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="9405194" target="9405109">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="9406020" target="9403073">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="9406020" target="9404050">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="9406055" target="9203084">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="9406055" target="9204035">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="9406055" target="9204060">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="9406055" target="9205004">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="9406055" target="9205041">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="9406055" target="9301042">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="9406055" target="9301043">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="9406055" target="9302103">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="9406055" target="9308083">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="9406055" target="9308122">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="9406055" target="9309097">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="9406055" target="9402119">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="9406055" target="9403187">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="9406059" target="9203018">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="9406059" target="9204046">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="9406059" target="9205027">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="9406059" target="9207053">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="9406059" target="9208078">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="9406059" target="9210119">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="9406059" target="9212030">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="9406059" target="9302109">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="9406059" target="9309075">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="9406059" target="9401025">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="9406059" target="9404035">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="9406067" target="9202092">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="9406067" target="9206006">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="9406067" target="9206048">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="9406067" target="9209023">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="9406067" target="9210015">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="9406067" target="9210119">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="9406067" target="9301015">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="9406067" target="9301047">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="9406067" target="9302083">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="9406067" target="9302126">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="9406067" target="9303007">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="9406067" target="9303016">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="9406067" target="9305083">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="9406067" target="9310112">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="9406067" target="9310159">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="9406067" target="9310202">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="9406067" target="9311010">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="9406067" target="9311081">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="9406067" target="9401025">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="9406067" target="9402031">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="9406067" target="9402120">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="9406067" target="9403191">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="9406067" target="9404063">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="9406067" target="9405124">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="9406082" target="9210021">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="9406082" target="9302033">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="9406082" target="9303016">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="9406082" target="9308112">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="9406082" target="9308154">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="9406082" target="9309039">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="9406082" target="9402031">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="9406082" target="9403155">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="9406082" target="9403191">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="9406101" target="9207042">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="9406101" target="9211059">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="9406101" target="9310170">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="9406105" target="9202014">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="9406105" target="9204046">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="9406105" target="9205027">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="9406105" target="9305142">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="9406105" target="9305185">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="9406105" target="9309145">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="9406105" target="9311120">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="9406105" target="9402002">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="9406105" target="9405117">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="9406125" target="9303013">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="9406125" target="9306002">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="9406125" target="9310188">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="9406125" target="9402045">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="9406125" target="9402113">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="9406125" target="9404008">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="9406128" target="9302038">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="9406128" target="9303057">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="9406128" target="9304154">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="9406128" target="9305185">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="9406132" target="9207053">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="9406132" target="9209016">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="9406132" target="9303040">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="9406132" target="9303057">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="9406132" target="9304154">
+        <attvalues>
+          <attvalue for="1" value="1994-06-01" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="9406198" target="9206016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="9406198" target="9207053">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="9406198" target="9207060">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="9406198" target="9208055">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="9406198" target="9209016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="9406198" target="9303057">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="9406198" target="9304104">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="9406198" target="9304154">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="9406198" target="9304159">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="9406198" target="9305069">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="9406198" target="9305142">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="9406198" target="9305185">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="9406198" target="9306052">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="9406198" target="9307049">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="9406198" target="9311120">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="9406203" target="9210010">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="9406203" target="9302006">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="9406203" target="9404113">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="9406203" target="9405121">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="9406206" target="9210021">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="9406206" target="9302033">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="9406206" target="9303016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="9406206" target="9308112">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="9406206" target="9308154">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="9406206" target="9309039">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="9406206" target="9403155">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="9406206" target="9403191">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="9406206" target="9406082">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="9406207" target="9301038">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="9406207" target="9302133">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="9406207" target="9307045">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="9406207" target="9312047">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="9406207" target="9312118">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="9406216" target="9203033">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="9406216" target="9211021">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="9406216" target="9309023">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="9406216" target="9403179">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="9407001" target="9206070">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="9407001" target="9303048">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="9407001" target="9309145">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="9407001" target="9401072">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="9407001" target="9401125">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="9407001" target="9403108">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="9407001" target="9403137">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="9407001" target="9405162">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="9407005" target="9205046">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="9407005" target="9205068">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="9407005" target="9206078">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="9407005" target="9207016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="9407005" target="9209052">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="9407005" target="9210121">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="9407005" target="9211021">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="9407005" target="9301042">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="9407005" target="9301043">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="9407005" target="9302033">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="9407005" target="9303016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="9407005" target="9304102">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="9407005" target="9308124">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="9407005" target="9309039">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="9407005" target="9309097">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="9407005" target="9310112">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="9407005" target="9311010">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="9407005" target="9311012">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="9407005" target="9311081">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="9407005" target="9312182">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="9407005" target="9402031">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="9407005" target="9402073">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="9407005" target="9403041">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="9407005" target="9403191">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="9407005" target="9404063">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="9407005" target="9404092">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="9407005" target="9404114">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="9407005" target="9406067">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="9407005" target="9406082">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="9407018" target="9301042">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="9407018" target="9302048">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="9407025" target="9301042">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="9407025" target="9301043">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="9407025" target="9309097">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="9407031" target="9402156">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="9407031" target="9403040">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="9407031" target="9406132">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="9407078" target="9210021">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="9407078" target="9401105">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="9407078" target="9403173">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="9407087" target="9204102">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="9407087" target="9211097">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="9407087" target="9401139">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="9407087" target="9402002">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="9407087" target="9402005">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="9407087" target="9402044">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="249" source="9407087" target="9403195">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="9407087" target="9403198">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="9407087" target="9406128">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="9407099" target="9202092">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="9407099" target="9205037">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="9407099" target="9205046">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="9407099" target="9206006">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="9407099" target="9206016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="9407099" target="9206078">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="9407099" target="9209023">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="9407099" target="9210119">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="9407099" target="9211061">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="9407099" target="9212030">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="9407099" target="9301015">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="9407099" target="9301047">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="9407099" target="9302083">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="9407099" target="9302126">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="9407099" target="9303007">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="9407099" target="9310112">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="9407099" target="9310159">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="9407099" target="9310202">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="270" source="9407099" target="9311010">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="271" source="9407099" target="9311012">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="272" source="9407099" target="9311081">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="9407099" target="9312182">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="9407099" target="9401139">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="275" source="9407099" target="9402031">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="276" source="9407099" target="9402120">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="9407099" target="9403191">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="9407099" target="9404063">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="279" source="9407099" target="9406067">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="280" source="9407106" target="9402044">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="9407111" target="9207053">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="282" source="9407111" target="9209016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="9407111" target="9211056">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="9407111" target="9303057">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="9407111" target="9304154">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="9407111" target="9305068">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="9407114" target="9204083">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="9407114" target="9212149">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="9407114" target="9301003">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="290" source="9407114" target="9301068">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="9407114" target="9302103">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="9407114" target="9303046">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="9407114" target="9305047">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="9407114" target="9309119">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="295" source="9407114" target="9402107">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="9407117" target="9207040">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="297" source="9407118" target="9205027">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="298" source="9407118" target="9211015">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="299" source="9407118" target="9302109">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="300" source="9407118" target="9308075">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="301" source="9407118" target="9309075">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="302" source="9407118" target="9312172">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="9407148" target="9212086">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="9407148" target="9304065">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="305" source="9407148" target="9304141">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="306" source="9407148" target="9309142">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="307" source="9407148" target="9404108">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="9407155" target="9203083">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="9407155" target="9204046">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="310" source="9407155" target="9207016">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="311" source="9407155" target="9207053">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="312" source="9407155" target="9302109">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="313" source="9407155" target="9305185">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="9407155" target="9309075">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="315" source="9407167" target="9208026">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="316" source="9407167" target="9303093">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="9407167" target="9305109">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="318" source="9407190" target="9203071">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="319" source="9407190" target="9207050">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="320" source="9407190" target="9207094">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="321" source="9407190" target="9208035">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="9407190" target="9211040">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="9407190" target="9301083">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="324" source="9407190" target="9302103">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="325" source="9407190" target="9307158">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="9407190" target="9308129">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="327" source="9407190" target="9309140">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="328" source="9407190" target="9310170">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="329" source="9407190" target="9403195">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="330" source="9407190" target="9404151">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="331" source="9407190" target="9404162">
+        <attvalues>
+          <attvalue for="1" value="1994-07-01" />
+        </attvalues>
+      </edge>
+      <edge id="332" source="9505061" target="9308106">
+        <attvalues>
+          <attvalue for="1" value="1994-05-01" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
